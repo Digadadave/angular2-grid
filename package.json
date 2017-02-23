@@ -1,5 +1,5 @@
 {
-  "name": "ng2grid",
+  "name": "angular2-grid",
   "version": "0.0.1",
   "private": true,
   "description": "A grid-based drag/drop/resize directive plugin for Angular 2",
